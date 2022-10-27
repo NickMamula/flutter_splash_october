@@ -1,0 +1,73 @@
+name: flutter_splash_screen_22october_v3
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts:
+  flutter_native_splash: ^2.2.12
+  shared_preferences:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter_native_splash:
+    color: "#ffffff"
+    image: assets/image/background_yes.png
+
+
+
+
+    android_12:
+      color: "#ffffff"
+      image: assets/image/background_yes.png
+
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/image/screen_login_image.png
+    - assets/image/big_flutter_logo.png
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
