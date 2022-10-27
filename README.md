@@ -3,5 +3,5 @@
 Тестовий проект, перевірка роботи та можливостей віджетів за допомогою Flutter.
 
 <div>
-  <img align="center" src="schedule.png" alt="Schedule screenshot" height="640" width="320">
+  <img align="center" assets="big_flutter_logo.png" alt="Schedule screenshot" height="640" width="320">
 </div>
