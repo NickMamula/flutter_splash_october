@@ -3,5 +3,7 @@
 Тестовий проект, перевірка роботи та можливостей віджетів за допомогою Flutter.
 
 <div>
-  <img align="center" src_for_redme="splash.png" alt="Schedule screenshot" height="2340" width="1080">
+  <img align="center" src="splash.png" alt="Schedule screenshot" height="2340" width="1080">
 </div>
+
+# Development Environment
